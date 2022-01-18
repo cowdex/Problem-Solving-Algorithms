@@ -1,2 +1,2 @@
-# Problem-Solving---Algorithms
+# Problem-Solving-Algorithms
 Challenges from Hackerrank Platform
